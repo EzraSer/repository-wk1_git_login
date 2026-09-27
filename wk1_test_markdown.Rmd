@@ -1,11 +1,12 @@
 ---
 title: "wk1_test_markdown"
 author: "Ezra Serrano"
-date: "2026-09-10"
+date: "2026-09-27"
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Hello world!
+
+#Hello world!
